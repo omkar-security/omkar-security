@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Omkar 👋
 
-<!--
-**omkar-security/omkar-security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Cybersecurity  
+🔐 Passionate about Web Security, Threat Detection & AI Security  
+💻 Building real-world projects in cybersecurity and machine learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔍 Interested in identifying and preventing cyber threats  
+- 🤖 Exploring Machine Learning for security applications  
+- 🛡️ Hands-on with web vulnerabilities and attack simulations  
+- 📚 Currently learning advanced security techniques and tools  
+
+---
+
+## 🧠 Skills
+- 💻 Languages: Python  
+- 🔐 Cybersecurity: Web Security, Network Security, Vulnerability Analysis  
+- 🤖 ML Tools: Scikit-learn, Pandas, NumPy  
+- 🛠️ Tools: Wireshark, Burp Suite, Metasploit  
+
+---
+
+## 📂 Projects
+- 🔐 Fraud Detection System (Machine Learning)  
+- 🌐 Web Security Lab (DVWA - SQL Injection, XSS)  
+- 🕵️ Cowrie Honeypot Setup & Attack Analysis  
+
+👉 More projects in my repositories!
+
+---
+
+## 📊 What I'm Working On
+- 🛡️ Building intrusion detection systems  
+- 🤖 Applying ML in cybersecurity  
+- 🔍 Learning real-world attack & defense techniques  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/omkar-kamble-062bb317a
+
+---
+
+⭐ *Always learning, building, and securing systems*
