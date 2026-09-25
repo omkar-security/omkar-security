@@ -1,40 +1,32 @@
 # Hi, I'm Omkar 👋
 
-🎓 Master's Student in Cybersecurity  
-🔐 Passionate about Web Security, Threat Detection & AI Security  
-💻 Building real-world projects in cybersecurity and machine learning  
+SQA Engineer | Cybersecurity MSc | Security & Automation
 
 ---
 
 ## 🚀 About Me
-- 🔍 Interested in identifying and preventing cyber threats  
-- 🤖 Exploring Machine Learning for security applications  
-- 🛡️ Hands-on with web vulnerabilities and attack simulations  
-- 📚 Currently learning advanced security techniques and tools  
+Test Engineer with 4 years of experience in software quality assurance, test automation, API testing and cloud-native applications, now building deeper expertise in cybersecurity, threat detection and privacy-preserving systems.
 
 ---
 
 ## 🧠 Skills
-- 💻 Languages: Python  
-- 🔐 Cybersecurity: Web Security, Network Security, Vulnerability Analysis  
-- 🤖 ML Tools: Scikit-learn, Pandas, NumPy  
-- 🛠️ Tools: Wireshark, Burp Suite, Metasploit  
+I build practical projects across Python, security testing, threat detection, machine learning and data privacy, with a focus on understanding how systems can be tested, monitored and secured.
+🔐 Cybersecurity: Threat Detection, Web Security, Privacy Engineering, Security Monitoring
+🧪 SQA: Selenium, TestNG, RestAssured, API Testing, CI/CD, SQL
+🐍 Development: Python, Java, SQL, Bash
+🤖 Interests: Cybersecurity, ML for Security, Automation, Privacy-Preserving Technologies
 
 ---
 
-## 📂 Projects
-- 🔐 Fraud Detection System (Machine Learning)  
-- 🌐 Web Security Lab (DVWA - SQL Injection, XSS)  
-- 🕵️ Cowrie Honeypot Setup & Attack Analysis  
-
-👉 More projects in my repositories!
-
----
 
 ## 📊 What I'm Working On
-- 🛡️ Building intrusion detection systems  
-- 🤖 Applying ML in cybersecurity  
-- 🔍 Learning real-world attack & defense techniques  
+Currently building practical cybersecurity projects while expanding my experience from SQA and test automation into security engineering. My current focus areas include:
+Threat detection & security monitoring
+Privacy-preserving security analytics
+Python-based security automation
+Machine learning for anomaly detection
+API & application security testing
+Cloud and defensive securities  
 
 ---
 
