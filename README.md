@@ -11,10 +11,10 @@ Test Engineer with 4 years of experience in software quality assurance, test aut
 
 ## 🧠 Skills
 I build practical projects across Python, security testing, threat detection, machine learning and data privacy, with a focus on understanding how systems can be tested, monitored and secured.
-🔐 Cybersecurity: Threat Detection, Web Security, Privacy Engineering, Security Monitoring
-🧪 SQA: Selenium, TestNG, RestAssured, API Testing, CI/CD, SQL
-🐍 Development: Python, Java, SQL, Bash
-🤖 Interests: Cybersecurity, ML for Security, Automation, Privacy-Preserving Technologies
+Cybersecurity: Threat Detection, Web Security, Privacy Engineering, Security Monitoring
+SQA: Selenium, TestNG, RestAssured, API Testing, CI/CD, SQL
+Development: Python, Java, SQL, Bash
+Interests: Cybersecurity, ML for Security, Automation, Privacy-Preserving Technologies
 
 ---
 
